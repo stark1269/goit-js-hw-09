@@ -37,3 +37,38 @@ img {
 }
 
 /* Task 2 */
+
+.timer-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.timer-input {
+  padding: 10px;
+  width: 300px;
+  height: 50px;
+  font-size: 30px;
+}
+
+.timer-btn {
+  margin-bottom: 20px;
+  height: 50px;
+  width: 75px;
+  font-size: 20px;
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.value {
+  font-size: 50px;
+}
+
+.label {
+  display: block;
+  font-size: 20px;
+}
